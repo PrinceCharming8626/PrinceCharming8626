@@ -1,4 +1,4 @@
-# **Hi there, I'm casanova(my name is not exactly a casanova), and this is my profile readme.**
+# **Hi there, I'm casanova, and this is my profile readme.**
 # Some FAQs
 
 ## **Who are you?**
