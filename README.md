@@ -1,10 +1,10 @@
-# **Hi there, I'm casanova, and this is my profile readme.**
+# **Hi there, I'm Prince Charming, and this is my profile readme.**
 # Some FAQs
 
 ## **Who are you?**
 
 Well, no-one special,person interested in computers and anime. \
-For me i'm getting motivate for codding by watching anime 
+I like coding,watching anime,I also like cyber security/Ethical hacking 
 I'm not a professional in any way whatsoever, I do things to have fun and cause its interesting.
 
 ## **What are you doing currently? What are you learning?**
@@ -44,11 +44,11 @@ Python                   29 mins             █░░░░░░░░░░�
 HTML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.88%
 
 🔥 Editors: 
-VS Code                  7 hrs 39 mins       ████████████████████████░   96.53% 
+VS Code                  7 hrs 39 mins        ████████████████████████░   96.53% 
 
 💻 Operating System: 
-Windows                  5 hrs 41 mins       ██████████████████░░░░░░░   71.68% 
-kali Linux               2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.32%
+Windows                   5 hrs 41 mins       ██████████████████░░░░░░░   71.68% 
+Linux (kali)              2 hrs 14 mins       ███████░░░░░░░░░░░░░░░░░░   28.32%
 
 ```
 
